@@ -5,7 +5,7 @@
 - 📫 How to reach me: uveal002@odu.edu
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I enjoy playing soccer.
-
+- Languages: Python, Java, Rust, C++
 <!---
 uveal002/uveal002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
